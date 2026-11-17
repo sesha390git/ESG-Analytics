@@ -1,0 +1,100 @@
+#ESG ANALYTICS : PYTHON FOR DATA SCIENCE AUTOMATION ----
+# Environment Setup ----
+
+# Conda Environment Setup Instructions ----
+#  - Using an environment.yml file with conda
+#  - Key Terminal Commands:
+# 
+#    conda env create -f environment_setup/conda_environment.yml
+#    conda env update --file environment_setup/conda_environment.yml --prune
+#    conda env export --name esg_py_env > envname.yml
+#    conda env remove --name esg_py_env
+#    conda env list
+#
+
+
+name: esg_py_env
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10 # Upgraded for Mac M1+ compatibility
+  - pip
+  - pip:
+      # Core Data
+      - scikit-misc
+      - numpy
+      - pandas
+
+      # R Data
+      - plydata
+      # - siuba==0.0.24
+      # - datatable
+
+      # Visualization
+      - matplotlib
+      - plotnine
+      - mizani
+      - plotly
+      # - altair==4.1.0
+
+      # EDA
+      - pandas-profiling
+      - ppscore
+      - janitor
+
+      # Modeling & Machine Learning
+      - statsmodels
+      # - nltk==3.5
+      # - h2o==3.32.0.3
+      # - pycaret==2.3.0
+      - scikit-learn
+      # - xgboost==0.90
+      # - lightgbm==3.1.1
+      # - catboost==0.24.4
+      # - sklearn-pandas==2.0.4
+
+      # Time Series
+      - sktime
+      - pmdarima
+      # - tsfresh==0.17.0
+
+      # Scalability & Automation
+      # - dask==2.30.0
+      # - dask-ml==1.8.0
+      # - dask-xgboost==0.1.11
+      - zict
+      - joblib
+
+      # API
+      # - fastapi==0.63.0
+      # - uvicorn==0.13.4
+
+      # Database
+      - sqlalchemy
+
+      # Excel
+      - xlsxwriter
+      - openpyxl
+
+      # Jupyter
+      - jupyterlab
+      - jupyterlab-server
+      - ipywidgets
+      - ipympl
+      - jupytext
+      - papermill
+
+      # Apps
+      - streamlit
+
+      # Terminal Formatting
+      - rich
+
+      # Extending Pandas
+      - pandas_flavor
+
+      # R users
+      - radian
+      - jedi

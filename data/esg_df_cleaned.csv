@@ -1,0 +1,229 @@
+Site Name,Year_Month,Scope,Emission Category,Emission Source,Activity Value,Activity Unit,Emission Factor Value,Emission Factor Unit,Emission Value (tCO2e),Collected By,Evidence Type
+M-1,2024-01,1,Fuel Combustion,Coal,359747.14,kg,2.41,tCO2e/ton,866.99,Facility Manager,Supplier Invoice
+M-1,2024-01,1,Fuel Combustion,Diesel,5806.23,Liters,2.68,kg,15.56,Facility Manager,Invoice
+M-1,2024-01,2,Purchased Electricity,Grid Electricity (Location-based),53895.95,kWh,0.727,kg,39.18,Site Supervisor,Utility Bill
+M-1,2024-02,1,Fuel Combustion,Coal,307297.23,kg,2.41,tCO2e/ton,740.59,Maintenance Team,Supplier Invoice
+M-1,2024-02,1,Fuel Combustion,Diesel,5045.91,Liters,2.68,kg,13.52,Energy Manager,Invoice
+M-1,2024-02,2,Purchased Electricity,Grid Electricity (Location-based),55868.19,kWh,0.727,kg,40.62,Operations Manager,Utility Bill
+M-1,2024-03,1,Fuel Combustion,Coal,354167.63,kg,2.41,tCO2e/ton,853.54,Energy Manager,Supplier Invoice
+M-1,2024-03,1,Fuel Combustion,Diesel,5633.47,Liters,2.68,kg,15.1,Maintenance Team,Invoice
+M-1,2024-03,2,Purchased Electricity,Grid Electricity (Location-based),51111.14,kWh,0.727,kg,37.16,Operations Manager,Utility Bill
+M-1,2024-04,1,Fuel Combustion,Coal,271235.07,kg,2.41,tCO2e/ton,653.68,Maintenance Team,Supplier Invoice
+M-1,2024-04,1,Fuel Combustion,Diesel,5563.89,Liters,2.68,kg,14.91,Facility Manager,Invoice
+M-1,2024-04,2,Purchased Electricity,Grid Electricity (Location-based),51664.58,kWh,0.727,kg,37.56,Operations Manager,Utility Bill
+M-1,2024-05,1,Fuel Combustion,Coal,240329.29,kg,2.41,tCO2e/ton,579.19,Facility Manager,Supplier Invoice
+M-1,2024-05,1,Fuel Combustion,Diesel,3925.46,Liters,2.68,kg,10.52,Energy Manager,Invoice
+M-1,2024-05,2,Purchased Electricity,Grid Electricity (Location-based),44760.61,kWh,0.727,kg,32.54,Energy Manager,Utility Bill
+M-1,2024-06,1,Fuel Combustion,Coal,245016.35,kg,2.41,tCO2e/ton,590.49,Operations Manager,Supplier Invoice
+M-1,2024-06,1,Fuel Combustion,Diesel,4275.25,Liters,2.68,kg,11.46,Operations Manager,Invoice
+M-1,2024-06,2,Purchased Electricity,Grid Electricity (Location-based),40347.15,kWh,0.727,kg,29.33,Maintenance Team,Utility Bill
+M-1,2024-07,1,Fuel Combustion,Coal,287473.75,kg,2.41,tCO2e/ton,692.81,Maintenance Team,Supplier Invoice
+M-1,2024-07,1,Fuel Combustion,Diesel,5134.22,Liters,2.68,kg,13.76,Facility Manager,Invoice
+M-1,2024-07,2,Purchased Electricity,Grid Electricity (Location-based),49455.56,kWh,0.727,kg,35.95,Operations Manager,Utility Bill
+M-1,2024-08,1,Fuel Combustion,Coal,287528.68,kg,2.41,tCO2e/ton,692.94,Energy Manager,Supplier Invoice
+M-1,2024-08,1,Fuel Combustion,Diesel,4839.63,Liters,2.68,kg,12.97,Maintenance Team,Invoice
+M-1,2024-08,2,Purchased Electricity,Grid Electricity (Location-based),47115.95,kWh,0.727,kg,34.25,Maintenance Team,Utility Bill
+M-1,2024-09,1,Fuel Combustion,Coal,317110.56,kg,2.41,tCO2e/ton,764.24,Energy Manager,Supplier Invoice
+M-1,2024-09,1,Fuel Combustion,Diesel,4639.61,Liters,2.68,kg,12.43,Maintenance Team,Invoice
+M-1,2024-09,2,Purchased Electricity,Grid Electricity (Location-based),49648.56,kWh,0.727,kg,36.09,Facility Manager,Utility Bill
+M-1,2024-10,1,Fuel Combustion,Coal,336099.36,kg,2.41,tCO2e/ton,810.0,Operations Manager,Supplier Invoice
+M-1,2024-10,1,Fuel Combustion,Diesel,4901.31,Liters,2.68,kg,13.14,Energy Manager,Invoice
+M-1,2024-10,2,Purchased Electricity,Grid Electricity (Location-based),55125.26,kWh,0.727,kg,40.08,Operations Manager,Utility Bill
+M-1,2024-11,1,Fuel Combustion,Coal,308254.59,kg,2.41,tCO2e/ton,742.89,Maintenance Team,Supplier Invoice
+M-1,2024-11,1,Fuel Combustion,Diesel,4925.87,Liters,2.68,kg,13.2,Maintenance Team,Invoice
+M-1,2024-11,2,Purchased Electricity,Grid Electricity (Location-based),55946.39,kWh,0.727,kg,40.67,Energy Manager,Utility Bill
+M-1,2024-12,1,Fuel Combustion,Coal,360731.71,kg,2.41,tCO2e/ton,869.36,Facility Manager,Supplier Invoice
+M-1,2024-12,1,Fuel Combustion,Diesel,5907.08,Liters,2.68,kg,15.83,Site Supervisor,Invoice
+M-1,2024-12,2,Purchased Electricity,Grid Electricity (Location-based),58950.19,kWh,0.727,kg,42.86,Energy Manager,Utility Bill
+M-2,2024-01,1,Fuel Combustion,Coal,288274.04,kg,2.41,tCO2e/ton,694.74,Site Supervisor,Supplier Invoice
+M-2,2024-01,1,Fuel Combustion,Diesel,5456.03,Liters,2.68,kg,14.62,Site Supervisor,Invoice
+M-2,2024-01,2,Purchased Electricity,Grid Electricity (Location-based),50616.57,kWh,0.727,kg,36.8,Facility Manager,Utility Bill
+M-2,2024-02,1,Fuel Combustion,Coal,289801.8,kg,2.41,tCO2e/ton,698.42,Site Supervisor,Supplier Invoice
+M-2,2024-02,1,Fuel Combustion,Diesel,5218.95,Liters,2.68,kg,13.99,Site Supervisor,Invoice
+M-2,2024-02,2,Purchased Electricity,Grid Electricity (Location-based),51749.67,kWh,0.727,kg,37.62,Facility Manager,Utility Bill
+M-2,2024-03,1,Fuel Combustion,Coal,339164.39,kg,2.41,tCO2e/ton,817.39,Site Supervisor,Supplier Invoice
+M-2,2024-03,1,Fuel Combustion,Diesel,4922.51,Liters,2.68,kg,13.19,Site Supervisor,Invoice
+M-2,2024-03,2,Purchased Electricity,Grid Electricity (Location-based),48357.49,kWh,0.727,kg,35.16,Site Supervisor,Utility Bill
+M-2,2024-04,1,Fuel Combustion,Coal,274267.53,kg,2.41,tCO2e/ton,660.98,Energy Manager,Supplier Invoice
+M-2,2024-04,1,Fuel Combustion,Diesel,4772.88,Liters,2.68,kg,12.79,Energy Manager,Invoice
+M-2,2024-04,2,Purchased Electricity,Grid Electricity (Location-based),48735.17,kWh,0.727,kg,35.43,Energy Manager,Utility Bill
+M-2,2024-05,1,Fuel Combustion,Coal,226981.2,kg,2.41,tCO2e/ton,547.02,Facility Manager,Supplier Invoice
+M-2,2024-05,1,Fuel Combustion,Diesel,4492.53,Liters,2.68,kg,12.04,Maintenance Team,Invoice
+M-2,2024-05,2,Purchased Electricity,Grid Electricity (Location-based),40676.75,kWh,0.727,kg,29.57,Site Supervisor,Utility Bill
+M-2,2024-06,1,Fuel Combustion,Coal,263543.72,kg,2.41,tCO2e/ton,635.14,Site Supervisor,Supplier Invoice
+M-2,2024-06,1,Fuel Combustion,Diesel,4420.09,Liters,2.68,kg,11.85,Facility Manager,Invoice
+M-2,2024-06,2,Purchased Electricity,Grid Electricity (Location-based),42152.36,kWh,0.727,kg,30.64,Site Supervisor,Utility Bill
+M-2,2024-07,1,Fuel Combustion,Coal,309046.83,kg,2.41,tCO2e/ton,744.8,Energy Manager,Supplier Invoice
+M-2,2024-07,1,Fuel Combustion,Diesel,4280.88,Liters,2.68,kg,11.47,Maintenance Team,Invoice
+M-2,2024-07,2,Purchased Electricity,Grid Electricity (Location-based),48244.04,kWh,0.727,kg,35.07,Operations Manager,Utility Bill
+M-2,2024-08,1,Fuel Combustion,Coal,259077.96,kg,2.41,tCO2e/ton,624.38,Site Supervisor,Supplier Invoice
+M-2,2024-08,1,Fuel Combustion,Diesel,4550.88,Liters,2.68,kg,12.2,Energy Manager,Invoice
+M-2,2024-08,2,Purchased Electricity,Grid Electricity (Location-based),45189.47,kWh,0.727,kg,32.85,Operations Manager,Utility Bill
+M-2,2024-09,1,Fuel Combustion,Coal,271966.89,kg,2.41,tCO2e/ton,655.44,Maintenance Team,Supplier Invoice
+M-2,2024-09,1,Fuel Combustion,Diesel,5124.76,Liters,2.68,kg,13.73,Operations Manager,Invoice
+M-2,2024-09,2,Purchased Electricity,Grid Electricity (Location-based),46653.95,kWh,0.727,kg,33.92,Energy Manager,Utility Bill
+M-2,2024-10,1,Fuel Combustion,Coal,299764.59,kg,2.41,tCO2e/ton,722.43,Operations Manager,Supplier Invoice
+M-2,2024-10,1,Fuel Combustion,Diesel,5278.54,Liters,2.68,kg,14.15,Facility Manager,Invoice
+M-2,2024-10,2,Purchased Electricity,Grid Electricity (Location-based),51052.46,kWh,0.727,kg,37.12,Operations Manager,Utility Bill
+M-2,2024-11,1,Fuel Combustion,Coal,332447.75,kg,2.41,tCO2e/ton,801.2,Site Supervisor,Supplier Invoice
+M-2,2024-11,1,Fuel Combustion,Diesel,4691.49,Liters,2.68,kg,12.57,Site Supervisor,Invoice
+M-2,2024-11,2,Purchased Electricity,Grid Electricity (Location-based),49248.13,kWh,0.727,kg,35.8,Facility Manager,Utility Bill
+M-2,2024-12,1,Fuel Combustion,Coal,330569.75,kg,2.41,tCO2e/ton,796.67,Energy Manager,Supplier Invoice
+M-2,2024-12,1,Fuel Combustion,Diesel,4847.19,Liters,2.68,kg,12.99,Site Supervisor,Invoice
+M-2,2024-12,2,Purchased Electricity,Grid Electricity (Location-based),56320.37,kWh,0.727,kg,40.94,Maintenance Team,Utility Bill
+M-3,2024-01,1,Fuel Combustion,Coal,263115.34,kg,2.41,tCO2e/ton,634.11,Site Supervisor,Supplier Invoice
+M-3,2024-01,1,Fuel Combustion,Diesel,4329.79,Liters,2.68,kg,11.6,Site Supervisor,Invoice
+M-3,2024-01,2,Purchased Electricity,Grid Electricity (Location-based),37986.45,kWh,0.727,kg,27.62,Energy Manager,Utility Bill
+M-3,2024-02,1,Fuel Combustion,Coal,260927.88,kg,2.41,tCO2e/ton,628.84,Operations Manager,Supplier Invoice
+M-3,2024-02,1,Fuel Combustion,Diesel,3703.3,Liters,2.68,kg,9.92,Site Supervisor,Invoice
+M-3,2024-02,2,Purchased Electricity,Grid Electricity (Location-based),42761.45,kWh,0.727,kg,31.09,Facility Manager,Utility Bill
+M-3,2024-03,1,Fuel Combustion,Coal,228485.52,kg,2.41,tCO2e/ton,550.65,Operations Manager,Supplier Invoice
+M-3,2024-03,1,Fuel Combustion,Diesel,4484.47,Liters,2.68,kg,12.02,Maintenance Team,Invoice
+M-3,2024-03,2,Purchased Electricity,Grid Electricity (Location-based),40315.87,kWh,0.727,kg,29.31,Energy Manager,Utility Bill
+M-3,2024-04,1,Fuel Combustion,Coal,217390.41,kg,2.41,tCO2e/ton,523.91,Maintenance Team,Supplier Invoice
+M-3,2024-04,1,Fuel Combustion,Diesel,3357.2,Liters,2.68,kg,9.0,Operations Manager,Invoice
+M-3,2024-04,2,Purchased Electricity,Grid Electricity (Location-based),38239.79,kWh,0.727,kg,27.8,Operations Manager,Utility Bill
+M-3,2024-05,1,Fuel Combustion,Coal,184563.26,kg,2.41,tCO2e/ton,444.8,Operations Manager,Supplier Invoice
+M-3,2024-05,1,Fuel Combustion,Diesel,3363.15,Liters,2.68,kg,9.01,Maintenance Team,Invoice
+M-3,2024-05,2,Purchased Electricity,Grid Electricity (Location-based),30911.01,kWh,0.727,kg,22.47,Operations Manager,Utility Bill
+M-3,2024-06,1,Fuel Combustion,Coal,206060.89,kg,2.41,tCO2e/ton,496.61,Maintenance Team,Supplier Invoice
+M-3,2024-06,1,Fuel Combustion,Diesel,3166.24,Liters,2.68,kg,8.49,Operations Manager,Invoice
+M-3,2024-06,2,Purchased Electricity,Grid Electricity (Location-based),32576.54,kWh,0.727,kg,23.68,Facility Manager,Utility Bill
+M-3,2024-07,1,Fuel Combustion,Coal,234596.02,kg,2.41,tCO2e/ton,565.38,Operations Manager,Supplier Invoice
+M-3,2024-07,1,Fuel Combustion,Diesel,3984.71,Liters,2.68,kg,10.68,Maintenance Team,Invoice
+M-3,2024-07,2,Purchased Electricity,Grid Electricity (Location-based),35217.57,kWh,0.727,kg,25.6,Site Supervisor,Utility Bill
+M-3,2024-08,1,Fuel Combustion,Coal,237193.52,kg,2.41,tCO2e/ton,571.64,Operations Manager,Supplier Invoice
+M-3,2024-08,1,Fuel Combustion,Diesel,3744.42,Liters,2.68,kg,10.04,Site Supervisor,Invoice
+M-3,2024-08,2,Purchased Electricity,Grid Electricity (Location-based),37867.66,kWh,0.727,kg,27.53,Facility Manager,Utility Bill
+M-3,2024-09,1,Fuel Combustion,Coal,221739.35,kg,2.41,tCO2e/ton,534.39,Energy Manager,Supplier Invoice
+M-3,2024-09,1,Fuel Combustion,Diesel,3322.88,Liters,2.68,kg,8.91,Facility Manager,Invoice
+M-3,2024-09,2,Purchased Electricity,Grid Electricity (Location-based),37636.4,kWh,0.727,kg,27.36,Operations Manager,Utility Bill
+M-3,2024-10,1,Fuel Combustion,Coal,224305.74,kg,2.41,tCO2e/ton,540.58,Site Supervisor,Supplier Invoice
+M-3,2024-10,1,Fuel Combustion,Diesel,4260.05,Liters,2.68,kg,11.42,Site Supervisor,Invoice
+M-3,2024-10,2,Purchased Electricity,Grid Electricity (Location-based),38662.08,kWh,0.727,kg,28.11,Maintenance Team,Utility Bill
+M-3,2024-11,1,Fuel Combustion,Coal,247924.25,kg,2.41,tCO2e/ton,597.5,Site Supervisor,Supplier Invoice
+M-3,2024-11,1,Fuel Combustion,Diesel,4528.49,Liters,2.68,kg,12.14,Maintenance Team,Invoice
+M-3,2024-11,2,Purchased Electricity,Grid Electricity (Location-based),40024.75,kWh,0.727,kg,29.1,Energy Manager,Utility Bill
+M-3,2024-12,1,Fuel Combustion,Coal,243063.95,kg,2.41,tCO2e/ton,585.78,Operations Manager,Supplier Invoice
+M-3,2024-12,1,Fuel Combustion,Diesel,4378.0,Liters,2.68,kg,11.73,Maintenance Team,Invoice
+M-3,2024-12,2,Purchased Electricity,Grid Electricity (Location-based),39595.33,kWh,0.727,kg,28.79,Energy Manager,Utility Bill
+M-4,2024-01,1,Fuel Combustion,Coal,211456.47,kg,2.41,tCO2e/ton,509.61,Site Supervisor,Supplier Invoice
+M-4,2024-01,1,Fuel Combustion,Diesel,3655.73,Liters,2.68,kg,9.8,Site Supervisor,Invoice
+M-4,2024-01,2,Purchased Electricity,Grid Electricity (Location-based),36829.4,kWh,0.727,kg,26.77,Energy Manager,Utility Bill
+M-4,2024-02,1,Fuel Combustion,Coal,250852.03,kg,2.41,tCO2e/ton,604.55,Site Supervisor,Supplier Invoice
+M-4,2024-02,1,Fuel Combustion,Diesel,4134.7,Liters,2.68,kg,11.08,Energy Manager,Invoice
+M-4,2024-02,2,Purchased Electricity,Grid Electricity (Location-based),36413.12,kWh,0.727,kg,26.47,Maintenance Team,Utility Bill
+M-4,2024-03,1,Fuel Combustion,Coal,248161.48,kg,2.41,tCO2e/ton,598.07,Maintenance Team,Supplier Invoice
+M-4,2024-03,1,Fuel Combustion,Diesel,4130.59,Liters,2.68,kg,11.07,Energy Manager,Invoice
+M-4,2024-03,2,Purchased Electricity,Grid Electricity (Location-based),39321.77,kWh,0.727,kg,28.59,Maintenance Team,Utility Bill
+M-4,2024-04,1,Fuel Combustion,Coal,226487.48,kg,2.41,tCO2e/ton,545.83,Maintenance Team,Supplier Invoice
+M-4,2024-04,1,Fuel Combustion,Diesel,3533.05,Liters,2.68,kg,9.47,Maintenance Team,Invoice
+M-4,2024-04,2,Purchased Electricity,Grid Electricity (Location-based),33244.79,kWh,0.727,kg,24.17,Facility Manager,Utility Bill
+M-4,2024-05,1,Fuel Combustion,Coal,192640.46,kg,2.41,tCO2e/ton,464.26,Operations Manager,Supplier Invoice
+M-4,2024-05,1,Fuel Combustion,Diesel,2845.05,Liters,2.68,kg,7.62,Site Supervisor,Invoice
+M-4,2024-05,2,Purchased Electricity,Grid Electricity (Location-based),31213.42,kWh,0.727,kg,22.69,Facility Manager,Utility Bill
+M-4,2024-06,1,Fuel Combustion,Coal,168787.29,kg,2.41,tCO2e/ton,406.78,Maintenance Team,Supplier Invoice
+M-4,2024-06,1,Fuel Combustion,Diesel,2922.95,Liters,2.68,kg,7.83,Energy Manager,Invoice
+M-4,2024-06,2,Purchased Electricity,Grid Electricity (Location-based),27893.85,kWh,0.727,kg,20.28,Maintenance Team,Utility Bill
+M-4,2024-07,1,Fuel Combustion,Coal,225150.68,kg,2.41,tCO2e/ton,542.61,Operations Manager,Supplier Invoice
+M-4,2024-07,1,Fuel Combustion,Diesel,3085.84,Liters,2.68,kg,8.27,Maintenance Team,Invoice
+M-4,2024-07,2,Purchased Electricity,Grid Electricity (Location-based),36780.88,kWh,0.727,kg,26.74,Energy Manager,Utility Bill
+M-4,2024-08,1,Fuel Combustion,Coal,206531.26,kg,2.41,tCO2e/ton,497.74,Operations Manager,Supplier Invoice
+M-4,2024-08,1,Fuel Combustion,Diesel,3266.57,Liters,2.68,kg,8.75,Maintenance Team,Invoice
+M-4,2024-08,2,Purchased Electricity,Grid Electricity (Location-based),35060.18,kWh,0.727,kg,25.49,Operations Manager,Utility Bill
+M-4,2024-09,1,Fuel Combustion,Coal,203179.84,kg,2.41,tCO2e/ton,489.66,Site Supervisor,Supplier Invoice
+M-4,2024-09,1,Fuel Combustion,Diesel,3872.04,Liters,2.68,kg,10.38,Site Supervisor,Invoice
+M-4,2024-09,2,Purchased Electricity,Grid Electricity (Location-based),32871.25,kWh,0.727,kg,23.9,Maintenance Team,Utility Bill
+M-4,2024-10,1,Fuel Combustion,Coal,231868.13,kg,2.41,tCO2e/ton,558.8,Operations Manager,Supplier Invoice
+M-4,2024-10,1,Fuel Combustion,Diesel,4037.59,Liters,2.68,kg,10.82,Energy Manager,Invoice
+M-4,2024-10,2,Purchased Electricity,Grid Electricity (Location-based),37410.93,kWh,0.727,kg,27.2,Maintenance Team,Utility Bill
+M-4,2024-11,1,Fuel Combustion,Coal,252796.33,kg,2.41,tCO2e/ton,609.24,Site Supervisor,Supplier Invoice
+M-4,2024-11,1,Fuel Combustion,Diesel,4277.3,Liters,2.68,kg,11.46,Site Supervisor,Invoice
+M-4,2024-11,2,Purchased Electricity,Grid Electricity (Location-based),37659.96,kWh,0.727,kg,27.38,Maintenance Team,Utility Bill
+M-4,2024-12,1,Fuel Combustion,Coal,230872.88,kg,2.41,tCO2e/ton,556.4,Operations Manager,Supplier Invoice
+M-4,2024-12,1,Fuel Combustion,Diesel,3666.01,Liters,2.68,kg,9.82,Site Supervisor,Invoice
+M-4,2024-12,2,Purchased Electricity,Grid Electricity (Location-based),36970.98,kWh,0.727,kg,26.88,Operations Manager,Utility Bill
+M-5,2024-01,1,Fuel Combustion,Coal,149717.27,kg,2.41,tCO2e/ton,360.82,Site Supervisor,Supplier Invoice
+M-5,2024-01,1,Fuel Combustion,Diesel,2822.31,Liters,2.68,kg,7.56,Site Supervisor,Invoice
+M-5,2024-01,2,Purchased Electricity,Grid Electricity (Location-based),26553.3,kWh,0.727,kg,19.3,Facility Manager,Utility Bill
+M-5,2024-02,1,Fuel Combustion,Coal,150198.8,kg,2.41,tCO2e/ton,361.98,Site Supervisor,Supplier Invoice
+M-5,2024-02,1,Fuel Combustion,Diesel,2603.91,Liters,2.68,kg,6.98,Energy Manager,Invoice
+M-5,2024-02,2,Purchased Electricity,Grid Electricity (Location-based),27511.79,kWh,0.727,kg,20.0,Maintenance Team,Utility Bill
+M-5,2024-03,1,Fuel Combustion,Coal,156405.54,kg,2.41,tCO2e/ton,376.94,Maintenance Team,Supplier Invoice
+M-5,2024-03,1,Fuel Combustion,Diesel,2515.63,Liters,2.68,kg,6.74,Operations Manager,Invoice
+M-5,2024-03,2,Purchased Electricity,Grid Electricity (Location-based),29296.37,kWh,0.727,kg,21.3,Site Supervisor,Utility Bill
+M-5,2024-04,1,Fuel Combustion,Coal,164569.51,kg,2.41,tCO2e/ton,396.61,Energy Manager,Supplier Invoice
+M-5,2024-04,1,Fuel Combustion,Diesel,2345.23,Liters,2.68,kg,6.29,Operations Manager,Invoice
+M-5,2024-04,2,Purchased Electricity,Grid Electricity (Location-based),24957.81,kWh,0.727,kg,18.14,Facility Manager,Utility Bill
+M-5,2024-05,1,Fuel Combustion,Coal,134171.3,kg,2.41,tCO2e/ton,323.35,Operations Manager,Supplier Invoice
+M-5,2024-05,1,Fuel Combustion,Diesel,1991.2,Liters,2.68,kg,5.34,Operations Manager,Invoice
+M-5,2024-05,2,Purchased Electricity,Grid Electricity (Location-based),21835.26,kWh,0.727,kg,15.87,Site Supervisor,Utility Bill
+M-5,2024-06,1,Fuel Combustion,Coal,124128.47,kg,2.41,tCO2e/ton,299.15,Facility Manager,Supplier Invoice
+M-5,2024-06,1,Fuel Combustion,Diesel,2192.48,Liters,2.68,kg,5.88,Operations Manager,Invoice
+M-5,2024-06,2,Purchased Electricity,Grid Electricity (Location-based),22025.94,kWh,0.727,kg,16.01,Energy Manager,Utility Bill
+M-5,2024-07,1,Fuel Combustion,Coal,151073.24,kg,2.41,tCO2e/ton,364.09,Energy Manager,Supplier Invoice
+M-5,2024-07,1,Fuel Combustion,Diesel,2254.17,Liters,2.68,kg,6.04,Maintenance Team,Invoice
+M-5,2024-07,2,Purchased Electricity,Grid Electricity (Location-based),25534.12,kWh,0.727,kg,18.56,Facility Manager,Utility Bill
+M-5,2024-08,1,Fuel Combustion,Coal,144623.4,kg,2.41,tCO2e/ton,348.54,Facility Manager,Supplier Invoice
+M-5,2024-08,1,Fuel Combustion,Diesel,2311.91,Liters,2.68,kg,6.2,Maintenance Team,Invoice
+M-5,2024-08,2,Purchased Electricity,Grid Electricity (Location-based),26341.21,kWh,0.727,kg,19.15,Operations Manager,Utility Bill
+M-5,2024-09,1,Fuel Combustion,Coal,152726.79,kg,2.41,tCO2e/ton,368.07,Facility Manager,Supplier Invoice
+M-5,2024-09,1,Fuel Combustion,Diesel,2606.54,Liters,2.68,kg,6.99,Energy Manager,Invoice
+M-5,2024-09,2,Purchased Electricity,Grid Electricity (Location-based),23163.1,kWh,0.727,kg,16.84,Energy Manager,Utility Bill
+M-5,2024-10,1,Fuel Combustion,Coal,165399.07,kg,2.41,tCO2e/ton,398.61,Site Supervisor,Supplier Invoice
+M-5,2024-10,1,Fuel Combustion,Diesel,2569.49,Liters,2.68,kg,6.89,Facility Manager,Invoice
+M-5,2024-10,2,Purchased Electricity,Grid Electricity (Location-based),25372.99,kWh,0.727,kg,18.45,Operations Manager,Utility Bill
+M-5,2024-11,1,Fuel Combustion,Coal,154254.09,kg,2.41,tCO2e/ton,371.75,Maintenance Team,Supplier Invoice
+M-5,2024-11,1,Fuel Combustion,Diesel,2876.02,Liters,2.68,kg,7.71,Maintenance Team,Invoice
+M-5,2024-11,2,Purchased Electricity,Grid Electricity (Location-based),28138.76,kWh,0.727,kg,20.46,Operations Manager,Utility Bill
+M-5,2024-12,1,Fuel Combustion,Coal,179412.09,kg,2.41,tCO2e/ton,432.38,Site Supervisor,Supplier Invoice
+M-5,2024-12,1,Fuel Combustion,Diesel,2510.76,Liters,2.68,kg,6.73,Maintenance Team,Invoice
+M-5,2024-12,2,Purchased Electricity,Grid Electricity (Location-based),27001.64,kWh,0.727,kg,19.63,Facility Manager,Utility Bill
+O-1,2024-01,1,Fuel Combustion,Diesel,375.72,Liters,2.68,kg,1.01,Site Supervisor,Invoice
+O-1,2024-01,2,Purchased Electricity,Grid Electricity (Location-based),19518.11,kWh,0.727,kg,14.19,Facility Manager,Utility Bill
+O-1,2024-02,1,Fuel Combustion,Diesel,473.11,Liters,2.68,kg,1.27,Energy Manager,Invoice
+O-1,2024-02,2,Purchased Electricity,Grid Electricity (Location-based),20675.64,kWh,0.727,kg,15.03,Site Supervisor,Utility Bill
+O-1,2024-03,1,Fuel Combustion,Diesel,524.0,Liters,2.68,kg,1.4,Maintenance Team,Invoice
+O-1,2024-03,2,Purchased Electricity,Grid Electricity (Location-based),22768.53,kWh,0.727,kg,16.55,Site Supervisor,Utility Bill
+O-1,2024-04,1,Fuel Combustion,Diesel,635.35,Liters,2.68,kg,1.7,Site Supervisor,Invoice
+O-1,2024-04,2,Purchased Electricity,Grid Electricity (Location-based),30091.9,kWh,0.727,kg,21.88,Site Supervisor,Utility Bill
+O-1,2024-05,1,Fuel Combustion,Diesel,576.6,Liters,2.68,kg,1.55,Site Supervisor,Invoice
+O-1,2024-05,2,Purchased Electricity,Grid Electricity (Location-based),29253.15,kWh,0.727,kg,21.27,Facility Manager,Utility Bill
+O-1,2024-06,1,Fuel Combustion,Diesel,699.48,Liters,2.68,kg,1.87,Energy Manager,Invoice
+O-1,2024-06,2,Purchased Electricity,Grid Electricity (Location-based),27979.88,kWh,0.727,kg,20.34,Operations Manager,Utility Bill
+O-1,2024-07,1,Fuel Combustion,Diesel,649.96,Liters,2.68,kg,1.74,Site Supervisor,Invoice
+O-1,2024-07,2,Purchased Electricity,Grid Electricity (Location-based),30334.55,kWh,0.727,kg,22.05,Maintenance Team,Utility Bill
+O-1,2024-08,1,Fuel Combustion,Diesel,596.73,Liters,2.68,kg,1.6,Site Supervisor,Invoice
+O-1,2024-08,2,Purchased Electricity,Grid Electricity (Location-based),28697.17,kWh,0.727,kg,20.86,Maintenance Team,Utility Bill
+O-1,2024-09,1,Fuel Combustion,Diesel,559.57,Liters,2.68,kg,1.5,Facility Manager,Invoice
+O-1,2024-09,2,Purchased Electricity,Grid Electricity (Location-based),23860.56,kWh,0.727,kg,17.35,Maintenance Team,Utility Bill
+O-1,2024-10,1,Fuel Combustion,Diesel,541.98,Liters,2.68,kg,1.45,Operations Manager,Invoice
+O-1,2024-10,2,Purchased Electricity,Grid Electricity (Location-based),24236.53,kWh,0.727,kg,17.62,Energy Manager,Utility Bill
+O-1,2024-11,1,Fuel Combustion,Diesel,437.62,Liters,2.68,kg,1.17,Maintenance Team,Invoice
+O-1,2024-11,2,Purchased Electricity,Grid Electricity (Location-based),23664.74,kWh,0.727,kg,17.2,Maintenance Team,Utility Bill
+O-1,2024-12,1,Fuel Combustion,Diesel,475.82,Liters,2.68,kg,1.28,Energy Manager,Invoice
+O-1,2024-12,2,Purchased Electricity,Grid Electricity (Location-based),19162.23,kWh,0.727,kg,13.93,Operations Manager,Utility Bill
+W-1,2024-01,1,Fuel Combustion,Diesel,705.77,Liters,2.68,kg,1.89,Site Supervisor,Invoice
+W-1,2024-01,2,Purchased Electricity,Grid Electricity (Location-based),13984.14,kWh,0.727,kg,10.17,Maintenance Team,Utility Bill
+W-1,2024-02,1,Fuel Combustion,Diesel,831.39,Liters,2.68,kg,2.23,Energy Manager,Invoice
+W-1,2024-02,2,Purchased Electricity,Grid Electricity (Location-based),12873.24,kWh,0.727,kg,9.36,Facility Manager,Utility Bill
+W-1,2024-03,1,Fuel Combustion,Diesel,734.88,Liters,2.68,kg,1.97,Energy Manager,Invoice
+W-1,2024-03,2,Purchased Electricity,Grid Electricity (Location-based),12661.14,kWh,0.727,kg,9.2,Facility Manager,Utility Bill
+W-1,2024-04,1,Fuel Combustion,Diesel,836.84,Liters,2.68,kg,2.24,Operations Manager,Invoice
+W-1,2024-04,2,Purchased Electricity,Grid Electricity (Location-based),13857.21,kWh,0.727,kg,10.07,Site Supervisor,Utility Bill
+W-1,2024-05,1,Fuel Combustion,Diesel,747.06,Liters,2.68,kg,2.0,Energy Manager,Invoice
+W-1,2024-05,2,Purchased Electricity,Grid Electricity (Location-based),14084.31,kWh,0.727,kg,10.24,Maintenance Team,Utility Bill
+W-1,2024-06,1,Fuel Combustion,Diesel,749.55,Liters,2.68,kg,2.01,Operations Manager,Invoice
+W-1,2024-06,2,Purchased Electricity,Grid Electricity (Location-based),14216.79,kWh,0.727,kg,10.34,Energy Manager,Utility Bill
+W-1,2024-07,1,Fuel Combustion,Diesel,847.33,Liters,2.68,kg,2.27,Maintenance Team,Invoice
+W-1,2024-07,2,Purchased Electricity,Grid Electricity (Location-based),13365.88,kWh,0.727,kg,9.72,Energy Manager,Utility Bill
+W-1,2024-08,1,Fuel Combustion,Diesel,867.05,Liters,2.68,kg,2.32,Facility Manager,Invoice
+W-1,2024-08,2,Purchased Electricity,Grid Electricity (Location-based),14079.19,kWh,0.727,kg,10.24,Energy Manager,Utility Bill
+W-1,2024-09,1,Fuel Combustion,Diesel,813.12,Liters,2.68,kg,2.18,Energy Manager,Invoice
+W-1,2024-09,2,Purchased Electricity,Grid Electricity (Location-based),14096.75,kWh,0.727,kg,10.25,Energy Manager,Utility Bill
+W-1,2024-10,1,Fuel Combustion,Diesel,774.6,Liters,2.68,kg,2.08,Operations Manager,Invoice
+W-1,2024-10,2,Purchased Electricity,Grid Electricity (Location-based),12856.08,kWh,0.727,kg,9.35,Energy Manager,Utility Bill
+W-1,2024-11,1,Fuel Combustion,Diesel,750.85,Liters,2.68,kg,2.01,Maintenance Team,Invoice
+W-1,2024-11,2,Purchased Electricity,Grid Electricity (Location-based),13233.45,kWh,0.727,kg,9.62,Facility Manager,Utility Bill
+W-1,2024-12,1,Fuel Combustion,Diesel,779.47,Liters,2.68,kg,2.09,Facility Manager,Invoice
+W-1,2024-12,2,Purchased Electricity,Grid Electricity (Location-based),14790.62,kWh,0.727,kg,10.75,Energy Manager,Utility Bill
