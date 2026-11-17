@@ -83,3 +83,6 @@ Open your terminal and run
 "streamlit run esg_dashboard.py"
 that should opena browser with the steamlit app
 http://localhost:8501/
+
+## public link to dashboard 
+https://esg-analytics-seshasayee.streamlit.app/
